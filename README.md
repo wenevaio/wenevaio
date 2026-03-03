@@ -1,5 +1,5 @@
-<h1 align="center">👋 Welcome to Wisdom</h1>
-<h3 align="center">Empowering Businesses with AI-Powered Efficiency</h3>
+<h1 align="center">👋 Welcome to Weneva</h1>
+<h3 align="center">Providing Infrastructure for the Solana Ecosystem</h3>
 <p align="center">
   <img src="https://media.tenor.com/D609Ay5PK5QAAAAi/skill-issue-coding.gif" alt="Wisdom AI" width="400">
 </p>
