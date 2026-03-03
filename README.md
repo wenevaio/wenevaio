@@ -72,9 +72,5 @@ We empower developers, validators, and blockchain projects with reliable, scalab
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weneva&show_icons=true&theme=tokyonight" alt="weneva stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=weneva&theme=tokyonight&hide_border=true" alt="WENEVA GitHub Streak"/>
 </p>
