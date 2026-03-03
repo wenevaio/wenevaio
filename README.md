@@ -3,7 +3,7 @@
 <h3 align="center">Providing Infrastructure for the Solana Ecosystem</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/D609Ay5PK5QAAAAi/skill-issue-coding.gif" alt="WENEVA" width="400">
+  <img src="https://media1.tenor.com/m/cxP23QVNAigAAAAC/jarvis.gif" alt="WENEVA" width="400">
 </p>
 
 <p align="center">
