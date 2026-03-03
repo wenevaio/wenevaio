@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to WENEVA</h1>
+<h1 align="center">WENEVA</h1>
 
 <h3 align="center">Providing Infrastructure for the Solana Ecosystem</h3>
 
@@ -24,10 +24,10 @@ We empower developers, validators, and blockchain projects with reliable, scalab
 
 ### 🚀 What We Do
 
-- ⚡ **Solana Infrastructure** — Validator operations, RPC services, and node management  
-- 🛠️ **Blockchain Engineering** — Infrastructure automation and performance optimization  
-- ☁️ **Cloud & DevOps** — Secure, scalable deployment architecture  
-- 🔐 **Network Reliability** — Monitoring, security, and uptime optimization  
+- **Solana Infrastructure** — Validator operations, RPC services, and node management  
+- **Blockchain Engineering** — Infrastructure automation and performance optimization  
+- **Cloud & DevOps** — Secure, scalable deployment architecture  
+- **Network Reliability** — Monitoring, security, and uptime optimization  
 
 ---
 
@@ -35,11 +35,7 @@ We empower developers, validators, and blockchain projects with reliable, scalab
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
 
 ---
